@@ -14,7 +14,7 @@ Single-cell multi-omics datasets are rapidly expanding, and integrating compleme
 - torch >= 2.3.1
 # Download code
 Clone the repository with
- <pre>git clone https://github.com/xiaoxi369/scUOTL.git</pre>
-# Running scUOTL
+ <pre>git clone https://github.com/xiaoxi369/scOT-LT.git</pre>
+# Running scOT-LT
 In terminal, run
  <pre>python src/main.py</pre> 
